@@ -1,0 +1,2 @@
+ping <website name/ IP address>
+    --> It is used to find the time taken by an ICMP packet to travel from one device to another and also receive back from targeted device 

@@ -1,0 +1,10 @@
+nslookup --type=A website.com
+    gives IPv4
+nslookup --type=CNAME website.com
+    gives another back up domain name
+nslookup --type=TXT website.com
+    gives a text in which data can be stored
+nslookup --type=MX website.com
+    gives priority number of email exchange
+nslookup --type=AAAA website.com
+    gives IPv6
